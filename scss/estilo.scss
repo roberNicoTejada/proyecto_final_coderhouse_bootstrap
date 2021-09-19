@@ -1,0 +1,17 @@
+@import "./base/reset";
+@import "./base/typo";
+
+@import "./utilities/variables";
+@import "./utilities/maps";
+@import "./utilities/mixins";
+@import "./utilities/extend";
+
+@import "./pages/home";
+@import "./pages/nosotros";
+@import "./pages/veterinaria";
+@import "./pages/petshop";
+@import "./pages/contacto";
+
+@import "./componentes/header";
+@import "./componentes/global";
+@import "./componentes/footer";
